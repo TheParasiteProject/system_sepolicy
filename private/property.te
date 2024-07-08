@@ -341,6 +341,7 @@ compatible_property_only(`
     -coredomain
     -bluetooth
     -hal_bluetooth_server
+    -vendor_init
   } {
     bluetooth_prop
   }:file no_rw_file_perms;
